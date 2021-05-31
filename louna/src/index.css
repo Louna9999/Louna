@@ -1,0 +1,126 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+* {
+  margin: 0;
+  font-family: "Montserrat";
+  color: #333;
+}
+.navig {
+  padding: 20px;
+  display: flex;
+  
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+}
+.navig h1 {
+  text-align: left;
+  color: #f1356d;
+}
+.nav.lien {
+  margin-left: auto;
+  align-items: center;
+}
+.lien a {
+  margin-left: 16px;
+  text-decoration: none;
+  text-align: right;
+  padding: 6px;
+}
+.lien a:hover {
+  color: #f1356d;
+}
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.Liste p:hover {
+color: #3399ac;
+box-shadow: 1px 3px 5px rgba(0,0.1,0,0.1);
+font-size: 30px;}
+
+  .nom{
+ text-decoration: none;
+ margin-left: 0px;
+ text-overflow: ellipsis;
+ border-left:5px double plum;
+ border-right:5px double plum;
+ border-top:5px double plum;
+ border-bottom:5px double plum;
+}
+
+.A button {color:rgb(103, 98, 112);
+background: none;
+border-left:none;
+border-right:none;
+border-top:none;
+border-bottom:none;
+font-size: 10px;
+}
+
+.A button:hover {color:black;
+font-weight: bolder;}
+
+.fonctions {
+text-align: center;
+}
+
+.Maths {
+  text-align: center;
+
+
+}
+
+.Maths select,.Maths input {
+  background: none;
+  border: solid #20828f 1px;
+  box-shadow: darkgray;
+  box-sizing: border-box;
+  padding: 5px;
+  
+}
+
+.Maths h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  color: #20828f;
+  font-style: italic;
+  font-size: 25px;
+}
+
+.sous-pages a {
+  margin-top: 0px;
+  margin-left: 20px;
+  margin-bottom: 40px;
+  text-decoration: none;
+  color: #535153f6;
+  font-weight: bolder;
+}
+
+.sous-pages a:hover {
+  text-shadow: 3px ;
+  color:#9636a3b9;
+  font-size: larger;
+}
+
+.fonctions button {
+  background: none;
+  border-left:none;
+  border-right:none;
+  border-top:none;
+  border-bottom:none;
+  margin-left: 10 px;
+  margin-top: 20px;
+
+}
+
+.fonctions button:hover {
+color:rgb(103, 98, 112);
+font-weight: bolder;
+font-size: 16px;
+}
