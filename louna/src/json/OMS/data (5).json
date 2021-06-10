@@ -1,0 +1,2594 @@
+{
+  "dimension": [
+                 {
+                   "label": "GHO",
+                   "display": "Indicator"
+                 },
+                 {
+                   "label": "PUBLISHSTATE",
+                   "display": "PUBLISH STATES"
+                 },
+                 {
+                   "label": "YEAR",
+                   "display": "Year"
+                 },
+                 {
+                   "label": "REGION",
+                   "display": "WHO region"
+                 },
+                 {
+                   "label": "COUNTRY",
+                   "display": "Country"
+                 }
+               ],
+    "fact": [
+              {
+                "dims": {
+                          "COUNTRY": "Afghanistan",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.296"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Afghanistan",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.296"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Albania",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "4.276"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Albania",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "4.584"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Albania",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "16.762"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Algeria",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "1.507"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Algeria",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "10.456"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Angola",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.187"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Angola",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.337"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Angola",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.585"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Antigua and Barbuda",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "136.105"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Argentina",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "2.718"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Argentina",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "40.566"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Armenia",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "1.714"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Australia",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "21.761"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Australia",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "10.383"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Australia",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "7.214"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Austria",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "19.485"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Austria",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "59.664"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Austria",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "26.087"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Azerbaijan",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.416"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Azerbaijan",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "2.911"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Azerbaijan",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "31.193"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahamas",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "3.102"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahamas",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "97.457"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahrain",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "1.093"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahrain",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "19.317"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bangladesh",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.315"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bangladesh",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "2.236"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bangladesh",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.434"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Barbados",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "4.222"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Barbados",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "17.592"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Barbados",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "184.014"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belarus",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "3.215"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belarus",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "57.349"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belgium",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2013"
+                        },
+                "Value": "22.706"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belgium",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2013"
+                        },
+                "Value": "65.362"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belgium",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2013"
+                        },
+                "Value": "98.884"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belize",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "4.453"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belize",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "11.690"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bhutan",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "1.270"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bosnia and Herzegovina",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "23.360"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bosnia and Herzegovina",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "13.744"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Botswana",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "3.485"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Botswana",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "13.580"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brazil",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.565"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brazil",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "1.967"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brazil",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "9.792"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brunei Darussalam",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "8.382"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brunei Darussalam",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "2.874"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brunei Darussalam",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.000"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bulgaria",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "13.807"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bulgaria",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "13.933"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bulgaria",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "33.201"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burkina Faso",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.668"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burkina Faso",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.000"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burundi",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "1.382"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cabo Verde",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "10.133"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cambodia",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.032"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Canada",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "14.497"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Canada",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "11.092"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Central African Republic",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "0.528"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Chad",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.014"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Chile",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "5.241"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Chile",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "10.055"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Chile",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "3.125"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "China",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "24.288"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Colombia",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.000"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Comoros",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "0.772"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Congo",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "1.001"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cook Islands",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "11.462"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Costa Rica",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.790"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Costa Rica",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "1.872"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Costa Rica",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "16.743"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Côte d'Ivoire",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.000"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Croatia",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "16.501"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Croatia",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "75.354"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cuba",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "42.691"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cuba",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "43.223"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cyprus",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "3.445"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cyprus",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "11.370"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Czechia",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "12.335"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Czechia",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "80.943"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Denmark",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "51.594"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominican Republic",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.541"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ecuador",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.811"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Egypt",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.038"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Egypt",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "7.038"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "El Salvador",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.253"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "El Salvador",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "5.687"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Equatorial Guinea",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "19.398"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eritrea",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.413"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eritrea",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "4.126"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "58.444"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "20.444"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "8.740"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eswatini",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "14.556"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ethiopia",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "0.975"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Fiji",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "2.354"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Fiji",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "11.209"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "47.702"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "79.132"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "22.340"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "92.154"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "6.981"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Gabon",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "6.217"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Georgia",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "2.531"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Georgia",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "36.720"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Germany",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "80.640"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Germany",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "59.581"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Germany",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "55.697"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ghana",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "3.285"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ghana",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.145"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ghana",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "2.900"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Greece",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "5.696"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Greece",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "14.780"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Greece",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "10.653"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Grenada",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "18.723"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Grenada",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "74.890"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guatemala",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.111"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guatemala",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.234"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guatemala",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "2.129"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.513"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea-Bissau",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "2.033"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guyana",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.781"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guyana",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "20.039"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Haiti",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.037"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Haiti",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "1.951"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Honduras",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2014"
+                        },
+                "Value": "0.112"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Honduras",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2014"
+                        },
+                "Value": "1.228"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Hungary",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "85.671"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iceland",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "32.703"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iceland",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "18.168"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "India",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.560"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "India",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "5.178"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "India",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "1.426"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iran (Islamic Republic of)",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "4.662"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iran (Islamic Republic of)",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "15.348"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iran (Islamic Republic of)",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "8.487"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iraq",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "1.013"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iraq",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "3.494"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ireland",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "21.659"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ireland",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "21.659"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Israel",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "4.179"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Israel",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "161.398"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Israel",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "35.228"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Italy",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "8.957"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Italy",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "33.611"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jamaica",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "1.671"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jamaica",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "27.856"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "66.147"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "196.625"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jordan",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.415"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jordan",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "6.649"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kenya",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "1.059"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kenya",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "1.482"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kiribati",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "35.585"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kyrgyzstan",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "1.603"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kyrgyzstan",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "27.705"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Latvia",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "102.526"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lebanon",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "1.453"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lebanon",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "1.624"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lebanon",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "27.514"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Liberia",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.333"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Liberia",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.444"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Liberia",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "1.600"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lithuania",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "49.592"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lithuania",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "40.178"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Luxembourg",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "32.290"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Luxembourg",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "42.347"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Luxembourg",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "39.701"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Madagascar",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.466"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Madagascar",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.103"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Madagascar",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.854"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malaysia",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "11.054"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Maldives",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "0.956"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Maldives",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "41.826"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mali",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.315"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritania",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2013"
+                        },
+                "Value": "0.335"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritius",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "1.429"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritius",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "53.356"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mexico",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.027"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mexico",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.255"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mexico",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "3.060"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Monaco",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "148.798"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "3.258"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "18.476"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Montenegro",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "4.298"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Montenegro",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "46.484"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Morocco",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "2.054"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Morocco",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "4.175"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mozambique",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "1.978"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mozambique",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.439"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Myanmar",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.555"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Myanmar",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "2.672"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Namibia",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "12.657"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Namibia",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.495"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nepal",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "1.183"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nepal",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.576"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "New Zealand",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "18.788"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "New Zealand",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "26.243"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nicaragua",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "0.164"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nicaragua",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "0.280"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nicaragua",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "3.173"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Niger",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.521"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "74.329"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Pakistan",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "3.274"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Pakistan",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "2.989"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Pakistan",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "2.472"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Panama",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "5.996"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Panama",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "3.779"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Paraguay",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.241"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Paraguay",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.874"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Paraguay",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "5.106"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Peru",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.405"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Peru",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.172"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Peru",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "3.197"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Philippines",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "1.324"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Philippines",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "2.045"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Philippines",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "4.129"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Poland",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "15.583"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Poland",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "30.466"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Portugal",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "11.825"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Portugal",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "6.344"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Portugal",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "5.701"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Qatar",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.458"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Qatar",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.573"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Qatar",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "2.483"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Korea",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "11.156"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Korea",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "4.850"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Korea",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "94.217"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Moldova",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "0.861"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Moldova",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "35.539"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "North Macedonia",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "9.619"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "North Macedonia",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "48.093"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Romania",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "55.045"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Romania",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "82.469"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Russian Federation",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "93.029"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Rwanda",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.344"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Rwanda",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "3.440"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saint Lucia",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "54.739"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saint Vincent and the Grenadines",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "164.451"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Samoa",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "5.161"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Samoa",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "4.645"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Samoa",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "5.161"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sao Tome and Principe",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "16.364"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saudi Arabia",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.317"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saudi Arabia",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.634"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saudi Arabia",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "17.115"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Senegal",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.581"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Senegal",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.908"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Senegal",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.935"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Serbia",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "18.325"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Serbia",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "41.406"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Seychelles",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "42.670"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sierra Leone",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "3.454"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "1.228"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "6.431"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "34.867"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovenia",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "9.543"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovenia",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "84.153"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovenia",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "57.114"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Somalia",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "0.503"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Africa",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "4.330"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Africa",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "16.556"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Sudan",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.101"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Spain",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "14.307"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Spain",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "28.148"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sri Lanka",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "3.959"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sri Lanka",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "1.332"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sri Lanka",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "4.968"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sudan",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "0.812"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sweden",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "31.095"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Switzerland",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "13.810"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Switzerland",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "74.113"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Switzerland",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "75.603"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Syrian Arab Republic",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.267"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Syrian Arab Republic",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "5.338"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tajikistan",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "6.551"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tajikistan",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "10.294"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Thailand",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.377"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Thailand",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "6.464"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Timor-Leste",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "1.934"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Togo",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.404"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Togo",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.270"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Togo",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "1.618"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tonga",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "24.444"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Trinidad and Tobago",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "60.290"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tunisia",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "0.266"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkey",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "4.673"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkey",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.957"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkey",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "5.158"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.087"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "1.245"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ukraine",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "1.919"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ukraine",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "65.483"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Arab Emirates",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "2.993"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Arab Emirates",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.896"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "0.000"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "23.914"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Republic of Tanzania",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "0.408"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Republic of Tanzania",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "0.121"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Republic of Tanzania",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2015"
+                        },
+                "Value": "1.578"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United States of America",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "11.143"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United States of America",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "18.660"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uruguay",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "8.160"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uruguay",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "41.818"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uzbekistan",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.371"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uzbekistan",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "24.613"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Vanuatu",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "1.512"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Venezuela (Bolivarian Republic of)",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2017"
+                        },
+                "Value": "0.000"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Viet Nam",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.192"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Viet Nam",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "8.103"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Yemen",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.000"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Yemen",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "3.801"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zambia",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "1.863"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zambia",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.279"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zambia",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "1.304"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "GHO": "Beds for mental health in general hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "1.014"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "GHO": "Beds in community residential facilities (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "0.513"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "GHO": "Beds in mental hospitals (per 100 000 population)",
+                          "YEAR": "2016"
+                        },
+                "Value": "11.497"
+              }
+      ]
+}

@@ -1,0 +1,42 @@
+import {useState} from 'react';
+import { Link } from 'react-router-dom';
+// import Graphe from './Composants/Graphes';
+// import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
+// import Limites from './Limites';
+// import Observation from './Observation';
+import React from 'react';
+
+
+const Maths = () => {
+  const [fonction, setFonction] = useState();
+  const graphe = (e) => {
+    e.preventDefault();
+    // const blog = {fonction}
+
+  }
+  // const o = Observation(fonction)
+  
+    return (
+          <div className='Maths'>
+          <div className="sous-pages">
+            <Link to="/Maths/limites">Limites</Link>
+            <Link to="/Maths/observation">Observation</Link>
+            <Link to="/Maths/extremums">Extremums</Link>
+          </div>
+          <h1>Observons diverses fonctions</h1>
+          <form onSubmit={graphe}>
+          <input type="number" required value={fonction} onChange={(e)=>setFonction(e.target.value)} />
+          <select>
+            <option value="exp(x)">exp(x)</option>
+            <option value="sin(x)">sin(x)</option>
+          </select>
+          <p>J'ai {fonction} ans</p>
+          </form>
+          </div>
+      
+        
+        
+      );
+}
+ 
+export default Maths;

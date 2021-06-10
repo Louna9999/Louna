@@ -1,0 +1,3970 @@
+{
+  "dimension": [
+                 {
+                   "label": "GHO",
+                   "display": "Indicator"
+                 },
+                 {
+                   "label": "PUBLISHSTATE",
+                   "display": "PUBLISH STATES"
+                 },
+                 {
+                   "label": "YEAR",
+                   "display": "Year"
+                 },
+                 {
+                   "label": "REGION",
+                   "display": "WHO region"
+                 },
+                 {
+                   "label": "COUNTRY",
+                   "display": "Country"
+                 }
+               ],
+    "fact": [
+              {
+                "dims": {
+                          "COUNTRY": "Afghanistan",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.231"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Afghanistan",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.098"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Afghanistan",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.296"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Albania",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.471"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Albania",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "6.876"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Albania",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.060"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Albania",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.231"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Angola",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.057"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Angola",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.660"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Angola",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.022"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Angola",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.179"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Antigua and Barbuda",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.001"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Antigua and Barbuda",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "7.005"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Antigua and Barbuda",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "4.003"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Argentina",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "21.705"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Argentina",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "222.572"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Armenia",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "3.840"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Armenia",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "11.245"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Armenia",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.274"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Armenia",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.788"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Australia",
+                          "YEAR": "2015",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "13.525"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Australia",
+                          "YEAR": "2015",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "90.582"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Australia",
+                          "YEAR": "2015",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "103.036"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Azerbaijan",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "3.452"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Azerbaijan",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "6.717"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Azerbaijan",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.114"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Azerbaijan",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.165"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahrain",
+                          "YEAR": "2017",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "5.467"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahrain",
+                          "YEAR": "2017",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "27.918"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahrain",
+                          "YEAR": "2017",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.458"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahrain",
+                          "YEAR": "2017",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.239"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bangladesh",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.130"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bangladesh",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.873"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bangladesh",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.124"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Barbados",
+                          "YEAR": "2015",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "63.332"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belarus",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "13.504"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belarus",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "5.514"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belgium",
+                          "YEAR": "2013",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "20.057"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belgium",
+                          "YEAR": "2013",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "125.692"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belgium",
+                          "YEAR": "2013",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "17.435"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belgium",
+                          "YEAR": "2013",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "10.462"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belize",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.392"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belize",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "3.340"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belize",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.113"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bhutan",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.508"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bhutan",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.127"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bolivia (Plurinational State of)",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.128"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bosnia and Herzegovina",
+                          "YEAR": "2015",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "8.032"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bosnia and Herzegovina",
+                          "YEAR": "2015",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "22.144"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bosnia and Herzegovina",
+                          "YEAR": "2015",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.594"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bosnia and Herzegovina",
+                          "YEAR": "2015",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.527"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brazil",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "3.165"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brazil",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "34.948"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brazil",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "6.608"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brazil",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "12.368"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brunei Darussalam",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.197"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brunei Darussalam",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "15.088"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brunei Darussalam",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.239"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brunei Darussalam",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "5.029"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bulgaria",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "7.203"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bulgaria",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "17.736"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bulgaria",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.780"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bulgaria",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.867"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burkina Faso",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.039"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burkina Faso",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.635"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burkina Faso",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.011"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burkina Faso",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.022"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burundi",
+                          "YEAR": "2017",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.010"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burundi",
+                          "YEAR": "2017",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.049"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burundi",
+                          "YEAR": "2017",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.069"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burundi",
+                          "YEAR": "2017",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.490"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cambodia",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.387"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cambodia",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.277"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cambodia",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "7.089"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Canada",
+                          "YEAR": "2017",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "14.679"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Canada",
+                          "YEAR": "2017",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "68.659"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Canada",
+                          "YEAR": "2017",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "145.400"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Canada",
+                          "YEAR": "2017",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "48.740"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Central African Republic",
+                          "YEAR": "2017",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.022"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Central African Republic",
+                          "YEAR": "2017",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.022"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Central African Republic",
+                          "YEAR": "2017",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.022"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Chad",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.007"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Chad",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.021"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Chad",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.007"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Chile",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "6.970"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Chile",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.880"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "China",
+                          "YEAR": "2015",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "2.199"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "China",
+                          "YEAR": "2015",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "5.423"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Colombia",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.835"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Colombia",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.000"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Comoros",
+                          "YEAR": "2017",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.129"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Comoros",
+                          "YEAR": "2017",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.386"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Comoros",
+                          "YEAR": "2017",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.643"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Congo",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.080"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Congo",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.500"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Congo",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.020"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Congo",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.020"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cook Islands",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "5.731"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cook Islands",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "11.462"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cook Islands",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "17.193"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cook Islands",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "11.462"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Costa Rica",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "3.931"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Costa Rica",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "5.699"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Costa Rica",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "76.957"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Costa Rica",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "142.018"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Côte d'Ivoire",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.130"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Côte d'Ivoire",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.381"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Croatia",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "11.095"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Croatia",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "41.856"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Croatia",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.298"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Croatia",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "4.367"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cuba",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "9.056"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cuba",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "8.899"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cuba",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.335"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cuba",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "31.061"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cyprus",
+                          "YEAR": "2015",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "34.970"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cyprus",
+                          "YEAR": "2015",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.000"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Czechia",
+                          "YEAR": "2015",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "12.364"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Czechia",
+                          "YEAR": "2015",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "30.348"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Czechia",
+                          "YEAR": "2015",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.207"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Czechia",
+                          "YEAR": "2015",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "2.518"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominican Republic",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "2.280"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominican Republic",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.294"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominican Republic",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "7.598"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ecuador",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.458"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ecuador",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.056"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ecuador",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.019"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ecuador",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "7.662"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.600"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "4.799"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.448"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.256"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "El Salvador",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.887"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "El Salvador",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.301"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "El Salvador",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "2.075"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Equatorial Guinea",
+                          "YEAR": "2017",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.681"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Equatorial Guinea",
+                          "YEAR": "2017",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "5.105"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Equatorial Guinea",
+                          "YEAR": "2017",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.085"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Equatorial Guinea",
+                          "YEAR": "2017",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.425"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eritrea",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "2.166"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eritrea",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.041"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eritrea",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.083"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "16.188"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "23.484"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.532"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "6.460"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eswatini",
+                          "YEAR": "2017",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.076"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eswatini",
+                          "YEAR": "2017",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "9.098"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eswatini",
+                          "YEAR": "2017",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.152"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eswatini",
+                          "YEAR": "2017",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.379"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ethiopia",
+                          "YEAR": "2017",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.076"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ethiopia",
+                          "YEAR": "2017",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.001"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ethiopia",
+                          "YEAR": "2017",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.040"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ethiopia",
+                          "YEAR": "2017",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.046"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Fiji",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.224"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Fiji",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.457"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Fiji",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.560"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Fiji",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.560"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "YEAR": "2017",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "23.586"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "YEAR": "2017",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "51.970"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "YEAR": "2017",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "2.754"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "YEAR": "2017",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "109.486"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "YEAR": "2017",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "20.907"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "YEAR": "2017",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "98.017"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "YEAR": "2017",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "48.704"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Gabon",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.259"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Gabon",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.518"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Gabon",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.104"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Gabon",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.777"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Gambia",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.101"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Gambia",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.303"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Gambia",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.101"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Georgia",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "6.706"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Georgia",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "5.922"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Georgia",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "2.328"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Germany",
+                          "YEAR": "2015",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "13.202"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Germany",
+                          "YEAR": "2015",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "49.555"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ghana",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.058"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ghana",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "7.733"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ghana",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.065"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Greece",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "5.803"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Greece",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "12.748"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Greece",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "3.459"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Greece",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "8.781"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Grenada",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.872"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Grenada",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.936"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Grenada",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "2.808"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guatemala",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.492"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guatemala",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.071"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guatemala",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.006"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guatemala",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "46.147"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.025"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.008"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.008"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea-Bissau",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.791"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea-Bissau",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.169"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea-Bissau",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.113"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guyana",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.911"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guyana",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.000"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Haiti",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.075"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Haiti",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.233"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Haiti",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.373"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Haiti",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.560"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Honduras",
+                          "YEAR": "2014",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.658"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Honduras",
+                          "YEAR": "2014",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.234"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Honduras",
+                          "YEAR": "2014",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.625"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Hungary",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "11.079"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Hungary",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "33.739"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Hungary",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "2.484"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "India",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.292"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "India",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.796"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "India",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.065"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "India",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.069"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Indonesia",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.310"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Indonesia",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "2.518"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Indonesia",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.175"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iran (Islamic Republic of)",
+                          "YEAR": "2017",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "2.016"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iran (Islamic Republic of)",
+                          "YEAR": "2017",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "9.451"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iran (Islamic Republic of)",
+                          "YEAR": "2017",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.512"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iran (Islamic Republic of)",
+                          "YEAR": "2017",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "5.166"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iraq",
+                          "YEAR": "2017",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.343"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iraq",
+                          "YEAR": "2017",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.218"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iraq",
+                          "YEAR": "2017",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.089"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iraq",
+                          "YEAR": "2017",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.111"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Israel",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "9.870"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Israel",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "88.089"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Italy",
+                          "YEAR": "2015",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "5.978"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Italy",
+                          "YEAR": "2015",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "23.492"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Italy",
+                          "YEAR": "2015",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "2.591"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Italy",
+                          "YEAR": "2015",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "3.798"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jamaica",
+                          "YEAR": "2015",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.149"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jamaica",
+                          "YEAR": "2015",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "10.272"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jamaica",
+                          "YEAR": "2015",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.453"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jamaica",
+                          "YEAR": "2015",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.383"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "11.867"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "83.805"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "8.328"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "3.037"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jordan",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.125"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jordan",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "3.297"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jordan",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.218"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jordan",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.266"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kenya",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.184"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kiribati",
+                          "YEAR": "2015",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "2.669"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kiribati",
+                          "YEAR": "2015",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.890"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kyrgyzstan",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.688"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kyrgyzstan",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "7.365"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kyrgyzstan",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.409"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Latvia",
+                          "YEAR": "2015",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "9.987"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Latvia",
+                          "YEAR": "2015",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "22.834"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lebanon",
+                          "YEAR": "2015",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.213"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lebanon",
+                          "YEAR": "2015",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "3.145"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lebanon",
+                          "YEAR": "2015",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.333"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lebanon",
+                          "YEAR": "2015",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "3.298"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Liberia",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.044"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Liberia",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "6.401"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Liberia",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.400"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lithuania",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "18.452"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lithuania",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "49.763"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lithuania",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "15.860"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Luxembourg",
+                          "YEAR": "2015",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "17.821"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Madagascar",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.058"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Madagascar",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.314"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Madagascar",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.050"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Madagascar",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.062"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malaysia",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.048"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malaysia",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "6.838"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malaysia",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.029"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Maldives",
+                          "YEAR": "2017",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "2.390"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Maldives",
+                          "YEAR": "2017",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.478"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Maldives",
+                          "YEAR": "2017",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "2.151"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mali",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.029"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mali",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.092"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mali",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.011"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Marshall Islands",
+                          "YEAR": "2017",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.000"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Marshall Islands",
+                          "YEAR": "2017",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "3.774"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Marshall Islands",
+                          "YEAR": "2017",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.887"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritania",
+                          "YEAR": "2013",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.072"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritania",
+                          "YEAR": "2013",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.215"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritania",
+                          "YEAR": "2013",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.143"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritius",
+                          "YEAR": "2017",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "2.382"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritius",
+                          "YEAR": "2017",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.509"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mexico",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.207"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mexico",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "2.239"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mexico",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.530"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mexico",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "3.459"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Monaco",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "31.326"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Monaco",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "83.536"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Monaco",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "102.592"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Monaco",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "53.515"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "4.031"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "4.199"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.101"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.101"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Montenegro",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "8.278"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Montenegro",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "18.307"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Montenegro",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.114"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Morocco",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.839"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Morocco",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "2.451"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Morocco",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.646"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Morocco",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.575"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mozambique",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.046"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mozambique",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.018"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mozambique",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.389"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Myanmar",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.384"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Myanmar",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.321"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Myanmar",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.013"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Namibia",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.371"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Namibia",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.907"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Namibia",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.206"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Namibia",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.443"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nauru",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "8.881"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nepal",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.356"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nepal",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.558"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nepal",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.523"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Netherlands",
+                          "YEAR": "2015",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "20.870"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Netherlands",
+                          "YEAR": "2015",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "123.464"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "New Zealand",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "28.540"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "New Zealand",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "75.132"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nicaragua",
+                          "YEAR": "2017",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.691"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nicaragua",
+                          "YEAR": "2017",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "3.568"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nicaragua",
+                          "YEAR": "2017",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.792"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Niger",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.014"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Niger",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.126"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Niger",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.028"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Niger",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.019"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "48.040"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "73.522"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Oman",
+                          "YEAR": "2015",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.738"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Oman",
+                          "YEAR": "2015",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "3.000"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Oman",
+                          "YEAR": "2015",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.786"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Panama",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "4.031"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Panama",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "3.452"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Panama",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "9.221"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Panama",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "7.331"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Peru",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "2.948"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Peru",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "5.995"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Peru",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "9.507"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Philippines",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.518"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Philippines",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.885"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Poland",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "24.176"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Poland",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "30.916"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Poland",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "16.346"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Qatar",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "2.712"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Qatar",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "9.933"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Qatar",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.115"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Qatar",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.413"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Korea",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "5.793"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Korea",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "13.662"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Korea",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "8.404"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Korea",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.591"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Moldova",
+                          "YEAR": "2015",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "4.550"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Moldova",
+                          "YEAR": "2015",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "14.830"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Moldova",
+                          "YEAR": "2015",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.492"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Moldova",
+                          "YEAR": "2015",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.910"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "North Macedonia",
+                          "YEAR": "2017",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "14.428"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "North Macedonia",
+                          "YEAR": "2017",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.443"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "North Macedonia",
+                          "YEAR": "2017",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "2.405"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Romania",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "5.665"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Romania",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "18.710"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Romania",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.503"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Romania",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.479"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Russian Federation",
+                          "YEAR": "2015",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "8.479"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Russian Federation",
+                          "YEAR": "2015",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "2.404"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Russian Federation",
+                          "YEAR": "2015",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "4.638"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Rwanda",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.060"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Rwanda",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.376"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Rwanda",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.172"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Rwanda",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.387"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saint Kitts and Nevis",
+                          "YEAR": "2017",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "5.526"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saint Lucia",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.564"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saint Lucia",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "50.788"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saint Lucia",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.564"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saint Vincent and the Grenadines",
+                          "YEAR": "2017",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "4.568"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saint Vincent and the Grenadines",
+                          "YEAR": "2017",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.827"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saint Vincent and the Grenadines",
+                          "YEAR": "2017",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.827"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Samoa",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.548"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Samoa",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.548"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Samoa",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.548"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sao Tome and Principe",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.511"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sao Tome and Principe",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "4.602"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sao Tome and Principe",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.511"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sao Tome and Principe",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "3.068"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saudi Arabia",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.321"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saudi Arabia",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "10.660"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saudi Arabia",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "3.955"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saudi Arabia",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "2.034"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Senegal",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.200"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Senegal",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.267"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Senegal",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.067"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Senegal",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.020"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Serbia",
+                          "YEAR": "2017",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "8.643"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Serbia",
+                          "YEAR": "2017",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "13.173"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Serbia",
+                          "YEAR": "2017",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.362"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Serbia",
+                          "YEAR": "2017",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "4.553"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Seychelles",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "2.134"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Seychelles",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "8.534"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Seychelles",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "3.200"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sierra Leone",
+                          "YEAR": "2017",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.041"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sierra Leone",
+                          "YEAR": "2017",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.332"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sierra Leone",
+                          "YEAR": "2017",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.028"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sierra Leone",
+                          "YEAR": "2017",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.028"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "4.191"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovenia",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "11.953"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovenia",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "36.727"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovenia",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.976"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovenia",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "9.302"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Africa",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.521"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Sudan",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.025"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Sudan",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.017"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Sudan",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.261"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Spain",
+                          "YEAR": "2015",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "9.694"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Spain",
+                          "YEAR": "2015",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "2.873"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Spain",
+                          "YEAR": "2015",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.114"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sri Lanka",
+                          "YEAR": "2017",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.517"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sri Lanka",
+                          "YEAR": "2017",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "3.278"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sri Lanka",
+                          "YEAR": "2017",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.285"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sri Lanka",
+                          "YEAR": "2017",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.246"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sudan",
+                          "YEAR": "2015",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.080"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sudan",
+                          "YEAR": "2015",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.551"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Suriname",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.265"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Suriname",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "16.630"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Suriname",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.362"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Suriname",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.542"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sweden",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "20.863"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sweden",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "50.566"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Switzerland",
+                          "YEAR": "2015",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "43.956"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Switzerland",
+                          "YEAR": "2015",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "92.659"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Switzerland",
+                          "YEAR": "2015",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "84.137"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Syrian Arab Republic",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.368"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Syrian Arab Republic",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.068"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Syrian Arab Republic",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.801"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Syrian Arab Republic",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.068"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tajikistan",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.392"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tajikistan",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.497"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Thailand",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.721"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Thailand",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "7.418"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Thailand",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.836"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Thailand",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.749"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Timor-Leste",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.081"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Timor-Leste",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.370"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Timor-Leste",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.612"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Timor-Leste",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.081"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Togo",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.054"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Togo",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.270"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Togo",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.054"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Togo",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.404"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tonga",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "2.821"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tonga",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "16.923"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tonga",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.880"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tunisia",
+                          "YEAR": "2017",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.195"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tunisia",
+                          "YEAR": "2017",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.009"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkey",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.637"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkey",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "150.251"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkey",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.643"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkey",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "2.537"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.082"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "2.242"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.037"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.037"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ukraine",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "6.930"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Arab Emirates",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.649"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Arab Emirates",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "4.370"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Arab Emirates",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.360"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Arab Emirates",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.765"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Republic of Tanzania",
+                          "YEAR": "2015",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.056"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Republic of Tanzania",
+                          "YEAR": "2015",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.362"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Republic of Tanzania",
+                          "YEAR": "2015",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.065"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Republic of Tanzania",
+                          "YEAR": "2015",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.009"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United States of America",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "10.542"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United States of America",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "4.283"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United States of America",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "60.338"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United States of America",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "29.864"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uruguay",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "14.134"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uzbekistan",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "2.612"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uzbekistan",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "9.214"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uzbekistan",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.090"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Vanuatu",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.378"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Vanuatu",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "4.535"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Vanuatu",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.378"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Vanuatu",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.756"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Yemen",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.201"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Yemen",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.323"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Yemen",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.056"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Yemen",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.409"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zambia",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.056"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zambia",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "1.429"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zambia",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.019"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zambia",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.031"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "YEAR": "2016",
+                          "GHO": "Psychiatrists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.095"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "YEAR": "2016",
+                          "GHO": "Nurses working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "3.486"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "YEAR": "2016",
+                          "GHO": "Social workers working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.634"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "YEAR": "2016",
+                          "GHO": "Psychologists working in mental health sector (per 100 000 population)"
+                        },
+                "Value": "0.057"
+              }
+      ]
+}

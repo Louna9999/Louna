@@ -1,0 +1,4402 @@
+{
+  "dimension": [
+                 {
+                   "label": "GHO",
+                   "display": "Indicator"
+                 },
+                 {
+                   "label": "PUBLISHSTATE",
+                   "display": "PUBLISH STATES"
+                 },
+                 {
+                   "label": "YEAR",
+                   "display": "Year"
+                 },
+                 {
+                   "label": "REGION",
+                   "display": "WHO region"
+                 },
+                 {
+                   "label": "COUNTRY",
+                   "display": "Country"
+                 }
+               ],
+    "fact": [
+              {
+                "dims": {
+                          "COUNTRY": "Afghanistan",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.003"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Afghanistan",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.012"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Afghanistan",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.006"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Albania",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.068"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Albania",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.068"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Albania",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.410"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Albania",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.445"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Algeria",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.048"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Algeria",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.068"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Algeria",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.048"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Angola",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.011"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Angola",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.014"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Antigua and Barbuda",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "1.001"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Argentina",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.937"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Argentina",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "1.071"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Argentina",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "1.720"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Argentina",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.152"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Armenia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.069"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Armenia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "1.371"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Armenia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.034"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Australia",
+                          "YEAR": "2015",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.071"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Australia",
+                          "YEAR": "2015",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.601"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Australia",
+                          "YEAR": "2015",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "1.105"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Australia",
+                          "YEAR": "2015",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.752"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Austria",
+                          "YEAR": "2015",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.092"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Austria",
+                          "YEAR": "2015",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.265"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Austria",
+                          "YEAR": "2015",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "3.457"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Austria",
+                          "YEAR": "2015",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "2.616"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Austria",
+                          "YEAR": "2015",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "4.448"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Azerbaijan",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.114"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Azerbaijan",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.021"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Azerbaijan",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.156"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Azerbaijan",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.094"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Azerbaijan",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.031"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahamas",
+                          "YEAR": "2015",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.259"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahamas",
+                          "YEAR": "2015",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.259"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahamas",
+                          "YEAR": "2015",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.517"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahamas",
+                          "YEAR": "2015",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.259"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahrain",
+                          "YEAR": "2017",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.146"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahrain",
+                          "YEAR": "2017",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "1.239"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahrain",
+                          "YEAR": "2017",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.729"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahrain",
+                          "YEAR": "2017",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.146"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bangladesh",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.001"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bangladesh",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.035"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bangladesh",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.055"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bangladesh",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.045"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Barbados",
+                          "YEAR": "2015",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.352"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Barbados",
+                          "YEAR": "2015",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.352"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Barbados",
+                          "YEAR": "2015",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "4.574"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Barbados",
+                          "YEAR": "2015",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.704"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belarus",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.200"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belarus",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.063"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belarus",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.116"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belarus",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.285"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belgium",
+                          "YEAR": "2013",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.470"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belgium",
+                          "YEAR": "2013",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.558"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belgium",
+                          "YEAR": "2013",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "1.134"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belize",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "1.948"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belize",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "2.227"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belize",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.278"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belize",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.278"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bhutan",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.127"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bhutan",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "3.556"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bolivia (Plurinational State of)",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.075"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bolivia (Plurinational State of)",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.009"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bolivia (Plurinational State of)",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.009"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bosnia and Herzegovina",
+                          "YEAR": "2015",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.085"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bosnia and Herzegovina",
+                          "YEAR": "2015",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.537"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bosnia and Herzegovina",
+                          "YEAR": "2015",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "1.442"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Botswana",
+                          "YEAR": "2017",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.091"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Botswana",
+                          "YEAR": "2017",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.226"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Botswana",
+                          "YEAR": "2017",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.272"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Botswana",
+                          "YEAR": "2017",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.045"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brazil",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.069"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brazil",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.115"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brazil",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "1.491"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brazil",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.267"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brunei Darussalam",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.479"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brunei Darussalam",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "2.634"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brunei Darussalam",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.718"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brunei Darussalam",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.479"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bulgaria",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.167"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bulgaria",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.307"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bulgaria",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.307"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bulgaria",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "5.935"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bulgaria",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "1.783"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burkina Faso",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.287"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burundi",
+                          "YEAR": "2017",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.010"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burundi",
+                          "YEAR": "2017",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.010"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burundi",
+                          "YEAR": "2017",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.029"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cabo Verde",
+                          "YEAR": "2017",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.563"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cambodia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.006"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cambodia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "1.134"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Canada",
+                          "YEAR": "2017",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.057"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Canada",
+                          "YEAR": "2017",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.401"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Canada",
+                          "YEAR": "2017",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.330"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Central African Republic",
+                          "YEAR": "2017",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.022"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Chad",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.007"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Chad",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.007"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Chile",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.023"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Chile",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.175"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Chile",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.839"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Chile",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.315"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Chile",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "1.171"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "China",
+                          "YEAR": "2015",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.068"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Colombia",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "1.988"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Colombia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.222"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Colombia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.292"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Comoros",
+                          "YEAR": "2017",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.129"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Congo",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.040"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Congo",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.020"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cook Islands",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "5.731"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cook Islands",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "5.731"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cook Islands",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "5.731"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Costa Rica",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.042"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Costa Rica",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.042"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Costa Rica",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "1.706"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Costa Rica",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.125"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Costa Rica",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.042"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Côte d'Ivoire",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.009"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Côte d'Ivoire",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.013"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Côte d'Ivoire",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.017"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Côte d'Ivoire",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.022"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Croatia",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.165"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Croatia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.519"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Croatia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "3.093"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Croatia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.803"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cuba",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.166"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cuba",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.148"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cuba",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "2.932"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cuba",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.445"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cuba",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "1.213"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cyprus",
+                          "YEAR": "2015",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.086"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cyprus",
+                          "YEAR": "2015",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.172"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cyprus",
+                          "YEAR": "2015",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.861"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cyprus",
+                          "YEAR": "2015",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.517"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Czechia",
+                          "YEAR": "2015",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.170"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Czechia",
+                          "YEAR": "2015",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.283"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Czechia",
+                          "YEAR": "2015",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "10.949"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Czechia",
+                          "YEAR": "2015",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "1.471"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominican Republic",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.076"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominican Republic",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "1.748"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominican Republic",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.019"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ecuador",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.025"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ecuador",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.173"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ecuador",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.242"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ecuador",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "3.010"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.019"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.031"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.011"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "El Salvador",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.032"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "El Salvador",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.253"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "El Salvador",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.729"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Equatorial Guinea",
+                          "YEAR": "2017",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.085"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Equatorial Guinea",
+                          "YEAR": "2017",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.340"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eritrea",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.021"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eritrea",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.206"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eritrea",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.227"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.152"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.684"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "14.820"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "17.176"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "3.496"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eswatini",
+                          "YEAR": "2017",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.076"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eswatini",
+                          "YEAR": "2017",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.379"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ethiopia",
+                          "YEAR": "2017",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.002"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ethiopia",
+                          "YEAR": "2017",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.052"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ethiopia",
+                          "YEAR": "2017",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.062"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Fiji",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.112"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Fiji",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.336"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Fiji",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "3.363"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Fiji",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.112"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "YEAR": "2017",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.748"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "YEAR": "2017",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "7.516"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "YEAR": "2017",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "3.065"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Gabon",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.052"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Gabon",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.052"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Georgia",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.228"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Georgia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.076"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Georgia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.683"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Georgia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.101"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Germany",
+                          "YEAR": "2015",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.335"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Germany",
+                          "YEAR": "2015",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.491"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Germany",
+                          "YEAR": "2015",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.077"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Germany",
+                          "YEAR": "2015",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "1.570"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ghana",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.011"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ghana",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "1.095"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ghana",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "2.378"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ghana",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.018"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ghana",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.015"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Greece",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.027"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Greece",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.330"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Greece",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "1.346"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Greece",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "1.319"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Greece",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "6.178"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Grenada",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.936"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Grenada",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.936"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Grenada",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "10.297"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guatemala",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.006"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guatemala",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.006"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guatemala",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "1.434"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guatemala",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.006"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.008"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea-Bissau",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.056"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea-Bissau",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.056"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guyana",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.130"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guyana",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.130"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guyana",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.260"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Haiti",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.019"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Haiti",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.009"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Haiti",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.131"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Honduras",
+                          "YEAR": "2014",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.022"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Honduras",
+                          "YEAR": "2014",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.145"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Honduras",
+                          "YEAR": "2014",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.011"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Hungary",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "2.647"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Hungary",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "8.269"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Hungary",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.020"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Hungary",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.286"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iceland",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.303"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iceland",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "4.542"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iceland",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "3.028"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "India",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.010"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "India",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.030"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "India",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.176"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "India",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.023"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "India",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.017"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Indonesia",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.019"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Indonesia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.104"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iran (Islamic Republic of)",
+                          "YEAR": "2017",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.049"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iran (Islamic Republic of)",
+                          "YEAR": "2017",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.200"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iran (Islamic Republic of)",
+                          "YEAR": "2017",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "5.089"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iran (Islamic Republic of)",
+                          "YEAR": "2017",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.281"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iran (Islamic Republic of)",
+                          "YEAR": "2017",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.224"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iraq",
+                          "YEAR": "2017",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.006"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iraq",
+                          "YEAR": "2017",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.061"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iraq",
+                          "YEAR": "2017",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "1.706"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iraq",
+                          "YEAR": "2017",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.003"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ireland",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.617"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ireland",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.617"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ireland",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "3.830"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ireland",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.085"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ireland",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "4.468"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Israel",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.161"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Israel",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.136"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Israel",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "1.637"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Italy",
+                          "YEAR": "2015",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.595"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Italy",
+                          "YEAR": "2015",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "3.581"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Italy",
+                          "YEAR": "2015",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "1.408"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Italy",
+                          "YEAR": "2015",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "3.091"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jamaica",
+                          "YEAR": "2015",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.035"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jamaica",
+                          "YEAR": "2015",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.070"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jamaica",
+                          "YEAR": "2015",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "6.093"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jamaica",
+                          "YEAR": "2015",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.174"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jamaica",
+                          "YEAR": "2015",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "2.994"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "8.314"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.450"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "7.223"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "3.759"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.366"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jordan",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.055"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jordan",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.033"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jordan",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.513"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kenya",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.002"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kenya",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.032"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kenya",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.068"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kiribati",
+                          "YEAR": "2015",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.890"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kiribati",
+                          "YEAR": "2015",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.890"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kyrgyzstan",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.085"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kyrgyzstan",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.136"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kyrgyzstan",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "1.159"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kyrgyzstan",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.051"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Latvia",
+                          "YEAR": "2015",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.301"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Latvia",
+                          "YEAR": "2015",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.151"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Latvia",
+                          "YEAR": "2015",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "20.475"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Latvia",
+                          "YEAR": "2015",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "56.758"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lebanon",
+                          "YEAR": "2015",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.085"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lebanon",
+                          "YEAR": "2015",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.137"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lebanon",
+                          "YEAR": "2015",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.718"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lebanon",
+                          "YEAR": "2015",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.085"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lebanon",
+                          "YEAR": "2015",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.120"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Liberia",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.022"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Liberia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.067"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Liberia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.622"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Libya",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.032"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lithuania",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.136"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lithuania",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.682"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lithuania",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "3.922"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Luxembourg",
+                          "YEAR": "2015",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.176"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Luxembourg",
+                          "YEAR": "2015",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.706"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Luxembourg",
+                          "YEAR": "2015",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "3.176"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Luxembourg",
+                          "YEAR": "2015",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "1.059"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Luxembourg",
+                          "YEAR": "2015",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.529"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Madagascar",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.021"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Madagascar",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.045"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Madagascar",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.004"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Madagascar",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.008"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malaysia",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.013"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malaysia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.153"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malaysia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.316"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malaysia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "3.118"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Maldives",
+                          "YEAR": "2017",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.239"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Maldives",
+                          "YEAR": "2017",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "1.434"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Maldives",
+                          "YEAR": "2017",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "2.151"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Maldives",
+                          "YEAR": "2017",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.239"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mali",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.006"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Marshall Islands",
+                          "YEAR": "2017",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "1.887"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritania",
+                          "YEAR": "2013",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.024"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritania",
+                          "YEAR": "2013",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.048"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritius",
+                          "YEAR": "2017",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.079"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritius",
+                          "YEAR": "2017",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.079"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritius",
+                          "YEAR": "2017",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "1.429"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mexico",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.029"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mexico",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.006"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mexico",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.126"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mexico",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.079"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mexico",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.012"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Monaco",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "2.610"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Monaco",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "5.221"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Monaco",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "5.221"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.034"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.470"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.067"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Montenegro",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.318"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Montenegro",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.318"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Morocco",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.032"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Morocco",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.080"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Morocco",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.371"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Morocco",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.101"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Morocco",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.069"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mozambique",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.007"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mozambique",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.039"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mozambique",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.768"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mozambique",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.021"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Myanmar",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.004"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Myanmar",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.042"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Myanmar",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.073"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Namibia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.082"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Namibia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.082"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Namibia",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.041"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nauru",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "8.881"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nepal",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.021"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nepal",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.063"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nepal",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.112"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Netherlands",
+                          "YEAR": "2015",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.201"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "New Zealand",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.607"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nicaragua",
+                          "YEAR": "2017",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.016"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nicaragua",
+                          "YEAR": "2017",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.016"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nicaragua",
+                          "YEAR": "2017",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.691"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nicaragua",
+                          "YEAR": "2017",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.033"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Niger",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.033"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Niger",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "1.685"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Niger",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.019"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Niue",
+                          "YEAR": "2017",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "61.387"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Niue",
+                          "YEAR": "2017",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "61.387"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.577"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.481"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "1.308"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.885"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Pakistan",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.006"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Pakistan",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.422"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Pakistan",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "2.300"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Pakistan",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.305"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Panama",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.025"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Panama",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.277"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Panama",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "2.696"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Panama",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.025"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Paraguay",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.030"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Paraguay",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.030"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Paraguay",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "1.416"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Paraguay",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.015"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Paraguay",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.090"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Peru",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.010"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Peru",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.057"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Peru",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.166"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Peru",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.016"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Peru",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.022"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Philippines",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.001"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Philippines",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.083"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Philippines",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.211"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Philippines",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.002"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Philippines",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.058"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Poland",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.125"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Poland",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.261"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Poland",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "3.207"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Poland",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.716"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Portugal",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.029"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Portugal",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.288"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Portugal",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.701"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Portugal",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.518"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Portugal",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.269"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Qatar",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.038"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Qatar",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.038"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Qatar",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.344"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Qatar",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.115"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Qatar",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.076"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Korea",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.358"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Korea",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.389"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Korea",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "1.789"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Korea",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.134"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Korea",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.427"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Moldova",
+                          "YEAR": "2015",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.074"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Moldova",
+                          "YEAR": "2015",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.074"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Moldova",
+                          "YEAR": "2015",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "1.058"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Moldova",
+                          "YEAR": "2015",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.098"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "North Macedonia",
+                          "YEAR": "2017",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.144"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "North Macedonia",
+                          "YEAR": "2017",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.721"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "North Macedonia",
+                          "YEAR": "2017",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.096"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Romania",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.171"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Romania",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.392"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Romania",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.911"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Romania",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.277"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Russian Federation",
+                          "YEAR": "2015",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.136"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Russian Federation",
+                          "YEAR": "2015",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "2.332"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Russian Federation",
+                          "YEAR": "2015",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.196"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Rwanda",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.017"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Rwanda",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.396"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Rwanda",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.404"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saint Kitts and Nevis",
+                          "YEAR": "2017",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "3.684"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saint Kitts and Nevis",
+                          "YEAR": "2017",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "1.842"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saint Lucia",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.564"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saint Lucia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "19.751"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saint Vincent and the Grenadines",
+                          "YEAR": "2017",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.914"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saint Vincent and the Grenadines",
+                          "YEAR": "2017",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "3.654"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saint Vincent and the Grenadines",
+                          "YEAR": "2017",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "35.631"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Samoa",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.516"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Samoa",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.516"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Samoa",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "12.387"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Samoa",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.516"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Samoa",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "4.645"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sao Tome and Principe",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.511"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sao Tome and Principe",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.511"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saudi Arabia",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.079"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saudi Arabia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.013"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saudi Arabia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.507"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saudi Arabia",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.013"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Senegal",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.007"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Senegal",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.027"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Senegal",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.040"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Senegal",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.027"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Serbia",
+                          "YEAR": "2017",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.079"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Serbia",
+                          "YEAR": "2017",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.407"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Serbia",
+                          "YEAR": "2017",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.136"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Serbia",
+                          "YEAR": "2017",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.441"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Seychelles",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "1.067"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Seychelles",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "2.134"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Seychelles",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "1.067"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Seychelles",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "1.067"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sierra Leone",
+                          "YEAR": "2017",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.014"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sierra Leone",
+                          "YEAR": "2017",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.014"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.018"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.072"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.217"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.163"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.054"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovenia",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.241"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovenia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.048"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovenia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "5.832"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovenia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "2.121"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovenia",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "3.518"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Somalia",
+                          "YEAR": "2017",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.007"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Somalia",
+                          "YEAR": "2017",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.007"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Africa",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.116"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Africa",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.072"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Africa",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.110"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Sudan",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.008"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Sudan",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.008"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Spain",
+                          "YEAR": "2015",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.183"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Spain",
+                          "YEAR": "2015",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "1.028"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Spain",
+                          "YEAR": "2015",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "2.045"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sri Lanka",
+                          "YEAR": "2017",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.005"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sri Lanka",
+                          "YEAR": "2017",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.150"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sri Lanka",
+                          "YEAR": "2017",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "1.328"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sri Lanka",
+                          "YEAR": "2017",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.130"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sri Lanka",
+                          "YEAR": "2017",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.111"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Switzerland",
+                          "YEAR": "2015",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.589"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Switzerland",
+                          "YEAR": "2015",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.252"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Switzerland",
+                          "YEAR": "2015",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "2.488"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Syrian Arab Republic",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.016"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Syrian Arab Republic",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.016"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Syrian Arab Republic",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "2.263"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tajikistan",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.035"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tajikistan",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.129"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tajikistan",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.164"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Thailand",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.028"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Thailand",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.151"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Thailand",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "1.302"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Thailand",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.007"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Timor-Leste",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.081"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Timor-Leste",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "6.527"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Timor-Leste",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.161"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Togo",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.013"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Togo",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.108"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Togo",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.040"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Togo",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.040"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tonga",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.000"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tonga",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.940"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tonga",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.940"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Trinidad and Tobago",
+                          "YEAR": "2017",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.074"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Trinidad and Tobago",
+                          "YEAR": "2017",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.662"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Trinidad and Tobago",
+                          "YEAR": "2017",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.074"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tunisia",
+                          "YEAR": "2017",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.009"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkey",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.011"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkey",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.455"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkey",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.190"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkey",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.174"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.002"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.032"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.942"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ukraine",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.139"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ukraine",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.052"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ukraine",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.049"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ukraine",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "1.576"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Arab Emirates",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.011"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Arab Emirates",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.055"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Arab Emirates",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.524"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Arab Emirates",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.033"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Republic of Tanzania",
+                          "YEAR": "2015",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.004"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Republic of Tanzania",
+                          "YEAR": "2015",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.009"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Republic of Tanzania",
+                          "YEAR": "2015",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.067"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Republic of Tanzania",
+                          "YEAR": "2015",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.007"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United States of America",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.189"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United States of America",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.349"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United States of America",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.373"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uruguay",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.321"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uruguay",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.699"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uruguay",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.612"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uzbekistan",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.081"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uzbekistan",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.013"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uzbekistan",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.084"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uzbekistan",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.052"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Vanuatu",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.756"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Vanuatu",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "2.645"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Viet Nam",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.043"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Viet Nam",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.017"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Viet Nam",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.009"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Yemen",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.033"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Yemen",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.026"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Yemen",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.063"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zambia",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.062"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zambia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.062"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zambia",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.205"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zambia",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.019"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "YEAR": "2016",
+                          "GHO": "Mental hospitals (per 100 000 population)"
+                        },
+                "Value": "0.025"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "YEAR": "2016",
+                          "GHO": "Mental health units in general hospitals (per 100 000 population)"
+                        },
+                "Value": "0.025"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "YEAR": "2016",
+                          "GHO": "Mental health outpatient facilities (per 100 000 population)"
+                        },
+                "Value": "0.057"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "YEAR": "2016",
+                          "GHO": "Mental health day treatment facilities (per 100 000 population)"
+                        },
+                "Value": "0.006"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "YEAR": "2016",
+                          "GHO": "Community residential facilities (per 100 000 population)"
+                        },
+                "Value": "0.051"
+              }
+      ]
+}

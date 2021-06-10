@@ -1,0 +1,54 @@
+{
+    "dimension": [
+                   {
+                     "label": "GHO",
+                     "display": "Indicator"
+                   },
+                   {
+                     "label": "PUBLISHSTATE",
+                     "display": "PUBLISH STATES"
+                   },
+                   {
+                     "label": "YEAR",
+                     "display": "Year"
+                   },
+                   {
+                     "label": "REGION",
+                     "display": "WHO region"
+                   },
+                   {
+                     "label": "COUNTRY",
+                     "display": "Country"
+                   },
+                   {
+                     "label": "SEX",
+                     "display": "Sex"
+                   }
+                 ],
+      "fact": [
+                {
+                  "dims": {
+                            "COUNTRY": "Afghanistan",
+                            "YEAR": "2019",
+                            "GHO": "Prevalence of anaemia in non-pregnant women (aged 15-49) (%)"
+                          },
+                  "Value": "43.2 [28.1-60.7]"
+                },
+                {
+                  "dims": {
+                            "COUNTRY": "Afghanistan",
+                            "YEAR": "2019",
+                            "GHO": "Number of non-pregnant women (aged 15-49 years) with anaemia (thousands)"
+                          },
+                  "Value": "3526 [2291-4956]"
+                },
+                {
+                  "dims": {
+                            "COUNTRY": "Afghanistan",
+                            "YEAR": "2018",
+                            "GHO": "Prevalence of anaemia in non-pregnant women (aged 15-49) (%)"
+                          },
+                  "Value": "42.3 [28.5-57.8]"
+                }
+      ]
+    }
